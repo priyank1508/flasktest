@@ -1,3 +1,5 @@
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+
 python -m virtualenv flask
 
 The app folder will be where we will put our application package. 
