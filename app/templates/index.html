@@ -1,0 +1,12 @@
+<html>
+  <head>
+    {% if title %}
+    <title>{{ title }} - flasktest</title>
+    {% else %}
+    <title>Welcome to flasktest</title>
+    {% endif %}
+  </head>
+  <body>
+      <h1>Hello, {{ user.nickname }}!</h1>
+  </body>
+</html>
